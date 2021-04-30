@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @julisevla3
+- 👋 Hi, I’m Juliane Alves
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning HTML, JS e CSS
 - 💞️ I’m looking to collaborate on projects that may be useful
