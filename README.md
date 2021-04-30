@@ -2,7 +2,8 @@
 - 👀 I’m interested in making connections and improving my developer skills.
 - 🌱 I’m currently learning more about HTML, JS e CSS.
 - 💞️ I’m looking to collaborate on projects that may be useful
-- 📫 How to reach me <a href="https://www.linkedin.com/in/juliane-alves-43b15987/" alt="Clique Aqui"> </a>
+- 📫 How to reach me 
+- https://www.linkedin.com/in/juliane-alves-43b15987
 
 <!---
 julisevla3/julisevla3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
