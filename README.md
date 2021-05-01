@@ -1,6 +1,8 @@
 - 👋 Hi, I’m Juliane Alves
 - 👀 I’m interested in making connections and improving my developer skills.
-- 🌱 I’m currently learning more about HTML, JS e CSS.
+- 🌱 I’m currently learning more about [HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white), (https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
+) <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+.
 - 💞️ I’m looking to collaborate on projects that may be useful
 - 📫 How to reach me 
 <a href="https://www.linkedin.com/in/juliane-alves-43b15987">  
